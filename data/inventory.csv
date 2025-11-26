@@ -1,0 +1,6 @@
+ProductID,ProductName,CurrentStock,ReorderLevel,LeadTimeDays,Supplier
+P001,Wireless Headphones,99,29,10,Supplier_A
+P002,Smart Watch,69,25,5,Supplier_C
+P003,Running Shoes,181,23,9,Supplier_A
+P004,Yoga Mat,159,28,11,Supplier_B
+P005,Coffee Maker,83,25,12,Supplier_B
